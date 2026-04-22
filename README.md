@@ -1,2 +1,1 @@
-# Data-Analyst-Project
-Data Projects Portfolio
+👨🏻‍💻Customer Shopping Behavior project for Data Analyst Portfolio
